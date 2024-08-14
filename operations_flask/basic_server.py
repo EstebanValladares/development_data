@@ -20,7 +20,7 @@ def operations():# se establece la función que se ejecutará al acceder al endp
         "suma": suma,
         "resta": resta,
         "multiplicacion": multiplicaicion,
-        "division": division
+        "division": division 
     })
 if __name__ == '__main__': #se ejecuta el servidor en el puerto 5000
     app.run(host= '0.0.0.0',port=5000,debug=False,use_reloader=False) 
