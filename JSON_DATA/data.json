@@ -34,8 +34,7 @@
                 "tecnology1":"WIFI"
             }
         ],
-        "informations_sections":[
-            {
+        "informations_sections":{
                 "informations1":[
                     {
                         "title":"informations-one",
@@ -54,8 +53,7 @@
                         "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
                     }
                 ]
-            }
-        ],
+            },
         "cards_dinamic":[
             {
                 "id":"01",
@@ -132,7 +130,7 @@
                     "icon":"fa-brands fa-github"
                 },
                 {
-                    "icon":"fa-solid fa-gamepad"
+                    "icon":"awesome3.com"
                 }
             ]
         }
