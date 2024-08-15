@@ -80,7 +80,7 @@
                 "button_text":"Mas"
             }
         ],
-        "icons_information":[
+        "icons_information_1":[
             {
                 "icon_image":"fa-solid fa-database",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
@@ -92,7 +92,9 @@
             {
                 "icon_image":"fa-solid fa-network-wired",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            },
+            }
+        ],
+        "icons_information_2":[
             {
                 "icon_image":"fa-solid fa-database",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
