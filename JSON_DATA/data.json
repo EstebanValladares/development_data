@@ -18,19 +18,19 @@
         },
         "icons_tecnology" : [
             {
-                "icon1":"awesome.com",
+                "icon1":"fa-solid fa-database",
                 "tecnology1":"DATABASES"
             },
             {
-                "icon1":"awesome.com",
+                "icon1":"fa-solid fa-folder",
                 "tecnology1":"DOCUMENTS"
             },
             {
-                "icon1":"awesome.com",
+                "icon1":"fa-solid fa-network-wired",
                 "tecnology1":"NETWORKS"
             },
             {
-                "icon1":"awesome.com",
+                "icon1":"fa-solid fa-wifi",
                 "tecnology1":"WIFI"
             }
         ],
@@ -84,27 +84,27 @@
         ],
         "icons_information":[
             {
-                "icon_image":"awesome1.com",
+                "icon_image":"fa-solid fa-database",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             },
             {
-                "icon_image":"awesome2.com",
+                "icon_image":"fa-solid fa-folder",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             },
             {
-                "icon_image":"awesome3.com",
+                "icon_image":"fa-solid fa-network-wired",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             },
             {
-                "icon_image":"awesome4.com",
+                "icon_image":"fa-solid fa-database",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             },
             {
-                "icon_image":"awesome5.com",
+                "icon_image":"fa-solid fa-folder",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             },
             {
-                "icon_image":"awesome6.com",
+                "icon_image":"fa-solid fa-network-wired",
                 "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
             }
         ],
@@ -126,13 +126,13 @@
             ],
             "icons_footer":[
                 {
-                    "icon":"awesome1.com"
+                    "icon":"fa-brands fa-google"
                 },
                 {
-                    "icon":"awesome2.com"
+                    "icon":"fa-brands fa-github"
                 },
                 {
-                    "icon":"awesome3.com"
+                    "icon":"fa-solid fa-gamepad"
                 }
             ]
         }
