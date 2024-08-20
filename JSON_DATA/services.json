@@ -1,0 +1,112 @@
+{
+    "nez":{
+        "main-section":{
+            "title-page":{
+                "title":"Servicio de construcción de sistemas e-salud"
+            },
+            "links-page":[
+                {
+                    "link":""
+                },
+                {
+                    "link":""
+                },
+                {
+                    "link":""
+                }
+            ]
+        },
+        "construction-service":[
+            {
+                "id":"01",
+                "text":"tus bloques de construccion sin necesidad de programar aplicaciones extras"
+            },
+            {
+                "id":"02",
+                "text":"Une tus bloques y crea un sistema de e-Salud"
+            },
+            {
+                "id":"03",
+                "text":"Despliega tu servicio en la nube o tu computadora personal"
+            }
+        ],
+        "share-services":{
+            "image":{
+                "image-link":""
+            },
+            "data-text":[
+                {
+                    "title":"Multiples usuarios",
+                    "data-list":[
+                        {
+                            "data-text":"Sistemas de compartición de imagenología."
+                        },
+                        {
+                            "data-text":"Datos de múltiples fuentes (sensores, y bases de datos)."
+                        },
+                        {
+                            "data-text":"Medición de signos vitales."
+                        }
+                    ]
+                },
+                {
+                    "title":"Múltiples niveles de atención",
+                    "data-list":[
+                        {
+                            "data-text":"Diagnósticos"
+                        },
+                        {
+                            "data-text":"Imagenología"
+                        },
+                        {
+                            "data-text":"Métricas de pacientes"
+                        }
+                    ]
+                }
+            ]
+        },
+        "system-inter":{
+            "image-link":""
+        },
+        "service-catalogs":{
+            "title":"Sistema de manejo de catálogos de servicios",
+            "info":"nterfaces para el control y acceso al catálogo de sistemas de e-Salud.",
+            "image-link":"",
+            "blocks-info":[
+                {
+                    "image-link":"",
+                    "title":"Reutiliza",
+                    "text":"Datos, aplicaciones, Sistemas de e-Salud."
+                },
+                {
+                    "image-link":"",
+                    "title":"Comparte",
+                    "text":"Tus resultados con profesionales de la salud de tu organización o de otra organización"
+                },
+                {
+                    "image-link":"",
+                    "title":"Accede",
+                    "text":"A tus datos, aplicaciones y sistemas de e-Salud en cualquier lugar y momento."
+                }
+            ]
+        },
+        "footer":{
+            "image-link":"",
+            "text":"Contáctanos a través de nuestros diferentes canales y conoce más sobre la Plataforma tecnológica para la gestión, aseguramiento, intercambio y preservación de grandes volúmenes de datos en salud y construcción de un repositorio nacional de servicios de análisis de datos de salud.",
+            "icons":[
+                {
+                    "link-icon":"",
+                    "link":""
+                },
+                {
+                    "link-icon":"",
+                    "link":""
+                },
+                {
+                    "link-icon":"",
+                    "link":""
+                }
+            ]
+        }
+    }
+}

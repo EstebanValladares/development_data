@@ -52,6 +52,18 @@
                         "title":"informations-one",
                         "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
                     }
+                ],
+                "informations4":[
+                    {
+                        "title":"informations-one",
+                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
+                    }
+                ],
+                "informations5":[
+                    {
+                        "title":"informations-one",
+                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
+                    }
                 ]
             },
         "cards_dinamic":[
