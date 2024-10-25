@@ -1,152 +1,86 @@
 {
-    "page_1":{
-        "nav_bar":{
-            "nav_btons": [
-                {
-                    "text":"INICIO",
-                    "src":"localhost://8080/page_1"
+    "bleader":[
+        {
+            "home":{
+                "img":{
+                    "src":"www.example.com",
+                    "alt":"logo empresa"
                 },
-                {
-                    "text":"PRODUCTOS",
-                    "src":"localhost://8080/page_2"
-                },
-                {
-                    "text":"CONTACTOS",
-                    "src":"localhost://8080/page_2"
+                "text-home":{
+                    "title":"BLEADER",
+                    "text":"Con un enfoque proactivo y personalizado, te ayudamos a mantener la tranquilidad en un entorno digital en constante evolución. ¡Tu seguridad es nuestra prioridad!"
                 }
-            ]
-        },
-        "icons_tecnology" : [
-            {
-                "icon1":"fa-solid fa-database",
-                "tecnology1":"DATABASES"
             },
-            {
-                "icon1":"fa-solid fa-folder",
-                "tecnology1":"DOCUMENTS"
-            },
-            {
-                "icon1":"fa-solid fa-network-wired",
-                "tecnology1":"NETWORKS"
-            },
-            {
-                "icon1":"fa-solid fa-wifi",
-                "tecnology1":"WIFI"
-            }
-        ],
-        "informations_sections":{
-                "informations1":[
-                    {
-                        "title":"informations-one",
-                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
-                    }
-                ],
-                "informations2":[
-                    {
-                        "title":"informations-one",
-                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
-                    }
-                ],
-                "informations3":[
-                    {
-                        "title":"informations-one",
-                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
-                    }
-                ],
-                "informations4":[
-                    {
-                        "title":"informations-one",
-                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
-                    }
-                ],
-                "informations5":[
-                    {
-                        "title":"informations-one",
-                        "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis"
-                    }
-                ]
-            },
-        "cards_dinamic":[
-            {
-                "id":"01",
-                "title":"Tecnology",
-                "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis",
-                "button_text":"Mas"
-            },
-            {
-                "id":"02",
-                "title":"Tecnology",
-                "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis",
-                "button_text":"Mas"
-            },
-            {
-                "id":"03",
-                "title":"Tecnology",
-                "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis",
-                "button_text":"Mas"
-            },
-            {
-                "id":"04",
-                "title":"Tecnology",
-                "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cum magni dicta nemo enim impedit quos. Cum officiis, magnam natus beatae quae perferendis",
-                "button_text":"Mas"
-            }
-        ],
-        "icons_information_1":[
-            {
-                "icon_image":"fa-solid fa-database",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            },
-            {
-                "icon_image":"fa-solid fa-folder",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            },
-            {
-                "icon_image":"fa-solid fa-network-wired",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            }
-        ],
-        "icons_information_2":[
-            {
-                "icon_image":"fa-solid fa-database",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            },
-            {
-                "icon_image":"fa-solid fa-folder",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            },
-            {
-                "icon_image":"fa-solid fa-network-wired",
-                "icon_text":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto. Praesentium qui et a, hic quia molestiae"
-            }
-        ],
-        "footer_information":{
-            "image_footer":[
+            "cards":[
                 {
-                    "image":"http://image.com"
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                },
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                },
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
                 }
             ],
-            "info_footer":[
+            "information":[
                 {
-                    "title_footer":"title footer",
-                    "text_footer":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto."
+                    "type":"Maneja y comparte tus servicios de e-salud",
+                    "src":"www.example.com"
                 },
                 {
-                    "title_footer":"title footer",
-                    "text_footer":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam sequi consequatur omnis facere cupiditate architecto."
-                }
-            ],
-            "icons_footer":[
-                {
-                    "icon":"fa-brands fa-google"
-                },
-                {
-                    "icon":"fa-brands fa-github"
-                },
-                {
-                    "icon":"awesome3.com"
+                    "type":"Maneja y comparte tus servicios de e-salud",
+                    "src":"www.example.com"
                 }
             ]
         }
-    }
+    ],
+    "quedzacloud":[
+        {
+            "home":{
+                "img":{
+                    "src":"www.example.com",
+                    "alt":"logo empresa"
+                },
+                "text-home":{
+                    "title":"QUEDZACLOUD",
+                    "text":"Elevate Your Potential: Unlock Limitless Opportunities and Drive Success with Our Cloud-Based Motivational Solutions"
+                }
+            },
+            "cards":[
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                },
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                },
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                },
+                {
+                    "src":"www.example.com",
+                    "description":"Lorem ipsum"
+                }
+            ],
+            "information":[
+                {
+                    "description1":"Maneja y comparte tus servicios de e-salud",
+                    "description2":"Maneja y comparte tus servicios de e-salud",
+                    "description3":"Maneja y comparte tus servicios de e-salud",
+                    "description4":"Maneja y comparte tus servicios de e-salud"
+                },
+                {
+                    "description1":"Maneja y comparte tus servicios de e-salud",
+                    "description2":"Maneja y comparte tus servicios de e-salud",
+                    "description3":"Maneja y comparte tus servicios de e-salud",
+                    "description4":"Maneja y comparte tus servicios de e-salud"
+                }
+            ]
+        }
+    ]
 }
